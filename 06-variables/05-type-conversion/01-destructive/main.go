@@ -12,7 +12,7 @@ import "fmt"
 
 func main() {
 	speed := 100 // int
-	force := 2.5 // float64
+	force := 2.9 // float64
 
 	// ERROR: invalid op
 	// speed = speed * force
